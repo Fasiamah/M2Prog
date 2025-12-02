@@ -1,3 +1,4 @@
+function CountdownTimer(){
 let now = new Date()
 
 
@@ -22,3 +23,6 @@ daysElement.innerText = days + " Days";
 hoursElement.innerText = hours + " Hours";
 minutesElement.innerText = minutes + " Minutes";
 secondsElement.innerText = seconds + " Seconds";
+}
+
+setInterval(CountdownTimer, 1000);

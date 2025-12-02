@@ -2,4 +2,7 @@ body{
     background-color: blue;
     color: azure;
     text-align: center;
+    font-size: 50px;
+    border: 10px, 10px;
+    border-color: black;
 }
