@@ -1,0 +1,14 @@
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\bin\Debug\net8.0\ForHealing.exe
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\bin\Debug\net8.0\ForHealing.deps.json
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\bin\Debug\net8.0\ForHealing.runtimeconfig.json
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\bin\Debug\net8.0\ForHealing.dll
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\bin\Debug\net8.0\ForHealing.pdb
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.AssemblyInfoInputs.cache
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.AssemblyInfo.cs
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.csproj.CoreCompileInputs.cache
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.dll
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\refint\ForHealing.dll
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.pdb
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ForHealing.genruntimeconfig.cache
+C:\Users\Frank123\source\repos\ForHealing\ForHealing\obj\Debug\net8.0\ref\ForHealing.dll

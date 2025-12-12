@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frank123\\source\\repos\\ForHealing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57ACC957-45C9-4E4B-A319-A9F7278073ED}|ForHealing\\ForHealing.csproj|c:\\users\\frank123\\source\\repos\\forhealing\\forhealing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ACC957-45C9-4E4B-A319-A9F7278073ED}|ForHealing\\ForHealing.csproj|solutionrelative:forhealing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ACC957-45C9-4E4B-A319-A9F7278073ED}|ForHealing\\ForHealing.csproj|c:\\users\\frank123\\source\\repos\\forhealing\\forhealing\\formulier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ACC957-45C9-4E4B-A319-A9F7278073ED}|ForHealing\\ForHealing.csproj|solutionrelative:forhealing\\formulier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulier.cs",
+              "DocumentMoniker": "C:\\Users\\Frank123\\source\\repos\\ForHealing\\ForHealing\\Formulier.cs",
+              "RelativeDocumentMoniker": "ForHealing\\Formulier.cs",
+              "ToolTip": "C:\\Users\\Frank123\\source\\repos\\ForHealing\\ForHealing\\Formulier.cs",
+              "RelativeToolTip": "ForHealing\\Formulier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:52:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frank123\\source\\repos\\ForHealing\\ForHealing\\Program.cs",
+              "RelativeDocumentMoniker": "ForHealing\\Program.cs",
+              "ToolTip": "C:\\Users\\Frank123\\source\\repos\\ForHealing\\ForHealing\\Program.cs",
+              "RelativeToolTip": "ForHealing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:51:29.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
