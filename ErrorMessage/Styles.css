@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    background-color: rgb(51, 51, 51);
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+.title-text{
+    color: white;
+}
+
+.container{
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.errorLongDesc{
+    color: white;
+    
+}
+
+.tryAgain{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
+    height: 5vh;
+    width: 20vh;
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2vh;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
